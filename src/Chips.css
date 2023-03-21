@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    color: white;
+    background-color: rgba(0,0,0,0.2);
+    padding: 1.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+button {
+    color: black;
+    background-color: rgb(219, 132, 132);
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: rgb(165, 11, 11);
+}
