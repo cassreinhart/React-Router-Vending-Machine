@@ -4,9 +4,9 @@ import {NavLink} from 'react-router-dom';
 const NavBar = () => {
   return (
     <nav className='NavBar'>
-        <NavLink exact to="/">SODE</NavLink>
-        <NavLink exact to="/eat">CHIPS</NavLink>
-        <NavLink exact to="/drink">FRESH SARDINES</NavLink>
+        <NavLink exact to="/soda">SODA</NavLink>
+        <NavLink exact to="/chips">CHIPS</NavLink>
+        <NavLink exact to="/fresh-sardines">FRESH SARDINES</NavLink>
     </nav>
   )
 }
